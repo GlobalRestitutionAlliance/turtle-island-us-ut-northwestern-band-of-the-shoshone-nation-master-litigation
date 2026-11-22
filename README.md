@@ -1,6 +1,6 @@
 # US UT NORTHWESTERN BAND OF THE SHOSHONE NATION - Litigation Framework
 
-**Template:** CUBA-adapted framework
+**Template:** GRA litigation framework
 **Generated:** 2026-11-21
 **Status:** SCAFFOLD - verification required. No fabricated citations.
 
